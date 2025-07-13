@@ -1,0 +1,21 @@
+{
+    "Dashboard": "Dashboard",
+    "Appointments": "Appointments",
+    "Add Doctor": "Add Doctor",
+    "Doctors List": "Doctors List",
+    "Patient List": "Patient List",
+    "English": "العربيه",
+    "Dark Mode": "Dark Mode",
+    "Logout": "Logout",
+    "Admin Login": "Admin Login",
+    "Please login": "Please login ",
+    "Email": "Email",
+    "Password": "Password",
+    "Login": "Login",
+    "Enter Admin Email": "Enter Admin Email",
+    "invalid Password": "invalid Password",
+    "Please fill out this field.": "Please fill out this field.",
+    "Server error, try again later": "Server error, try again later",
+    "This email was not found. Try again": "This email was not found. Try again",
+    "Welcome back!": "Welcome back!"
+}

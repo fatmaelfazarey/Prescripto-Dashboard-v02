@@ -1,0 +1,21 @@
+.btn {
+    /* scale: 1.2; */
+}
+
+.btn:hover {
+    background-color: transparent !important;
+    border: 2px solid var(--main-color) !important;
+    color: var(--main-color) !important;
+    transition: var(--transition);
+    /* font-size: 105%; */
+}
+
+.border-bottom {
+    border-bottom: 1px solid var(--border);
+}
+
+@media (max-width:576px) {
+    .btn {
+        scale: .9;
+    }
+}

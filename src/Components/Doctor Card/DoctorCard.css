@@ -1,0 +1,4 @@
+.custom-hover:hover {
+    scale: 1.09;
+    transition: var(--transition);
+}

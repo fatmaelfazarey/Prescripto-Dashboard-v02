@@ -1,0 +1,21 @@
+{
+    "Dashboard": "لوحة القيادة",
+    "Appointments": "المواعيد",
+    "Add Doctor": "إضافة طبيب",
+    "Doctors List": "قائمة الأطباء",
+    "Patient List": "قائمة المرضى",
+    "العربيه": "English",
+    "Dark Mode": "وضع داكن",
+    "Logout": "تسجيل الخروج",
+    "Admin Login": "تسجيل دخول",
+    "Please login": "يرجى تسجيل الدخول",
+    "Email": "البريد الإلكتروني",
+    "Password": "كلمة المرور",
+    "Login": "تسجيل الدخول",
+    "Enter Admin Email": "أدخل بريد المدير الإلكتروني",
+    "invalid Password": "كلمة مرور غير صالحة",
+    "Please fill out this field.": "يرجى ملء هذا الحقل.",
+    "Server error, try again later": "خطأ في الخادم، حاول مرة أخرى لاحقًا",
+    "This email was not found. Try again": "لم يتم العثور على هذا البريد الإلكتروني. حاول مرة أخرى",
+    "Welcome back!": "مرحبًا بعودتك!"
+}

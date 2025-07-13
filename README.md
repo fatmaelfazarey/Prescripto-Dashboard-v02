@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### npm install --save-dev ajv@^7 
+### add react router dom 
+<!-- npm i -D react-router-dom@latest  -->
+
+### npm install -g react-devtools
+### add bootstap
+<!--  npm install bootstrap  
+import 'bootstrap/dist/css/bootstrap.css';
+// Put any other imports below so that CSS from your
+// components takes precedence over default styles.
+-->
+### json server
+<!-- 
+1- npm install -g json-server => create json server
+2- create db.json file
+3- json-server --watch db.json --port 3001 => run json server
+4- take your end point 
+http://localhost:3001/admin
+http://localhost:3001/doctors
+http://localhost:3001/Patients
+ -->
+ ### Translate
+ <!-- 
+ npm install usehooks-ts
+ npm install react-i18next i18next
+ npm install i18next-browser-languagedetector
+ npm install i18next-http-backend
+
+  -->
+
+  <!-- 
+  charts
+  npm install recharts -->

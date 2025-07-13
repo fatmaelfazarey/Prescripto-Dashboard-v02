@@ -1,0 +1,7 @@
+input[type="submit"]:hover {
+    color: var(--main-color) !important;
+    background-color: white !important;
+    border-color: var(--main-color);
+    transition: var(--transition);
+}
+

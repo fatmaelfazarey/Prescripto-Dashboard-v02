@@ -1,0 +1,37 @@
+.h1 {
+    color: red;
+}
+
+.form {
+    background-color: var(--bg-white);
+}
+
+.border_rad {
+    border-radius: 8px;
+}
+
+.docImage {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.label {
+    color: var(--form-label);
+    font-weight: 400;
+    font-size: 1.125rem;
+    margin: 0 0 .25rem 0 !important;
+    display: block;
+}
+
+.m_bottom {
+    margin-bottom: .5rem;
+}
+
+textarea {
+    resize: none;
+}
+
+button[type="submit"] {
+    float: right;
+    background-color: var(--main-color);
+}

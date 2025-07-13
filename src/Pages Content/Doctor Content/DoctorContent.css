@@ -1,0 +1,15 @@
+
+
+
+@media (max-width:992px) {
+    .info {
+        margin-top: -80px;
+        z-index: 100;
+    }
+
+    .Dcontent {
+        justify-content: center;
+        align-items: center;
+    }
+
+}
