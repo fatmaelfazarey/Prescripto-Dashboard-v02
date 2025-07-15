@@ -13,9 +13,12 @@ const DoctorContent = () => {
     const [isImageLoaded, setImageLoaded] = useState(false);
     const [appointmentLength, setAppointmentLength] = useState(0);
 
-    const handleAppointmentLength = (value) => {
-        setAppointmentLength(value);
-    }
+    // const handleAppointmentLength = (value) => {
+    //     setAppointmentLength(value);
+    // }
+    const handleAppointmentLength = React.useCallback((length) => {
+        setAppointmentLength(length);
+    }, []);
     useEffect(() => {
         const getProfileData = () => {
             if (doctorId && doctors?.length > 0) {
