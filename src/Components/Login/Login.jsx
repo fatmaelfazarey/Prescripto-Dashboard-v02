@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import { assets } from '../../assets/assets';
 import './Login.module.css'
 import { AppContext } from '../../Context/AppContext';
@@ -11,6 +11,12 @@ const Login = () => {
     const navigate = useNavigate();
 
     // const { t } = useContext(AppContext);
+    useEffect(() => {
+
+        alert('Welcome to the Prescripto Dashboard!\n\nTo test the website, you can use:\nEmail: admin@gmail.com\nPassword: 123');
+
+    }, [])
+
 
 
     function callServer() {
@@ -26,7 +32,7 @@ const Login = () => {
                             document.getElementById('pass').value = '';
                             alert('Welcome back!');
                             // localStorage.setItem('login', true);
-                            navigate('/');
+                            navigate('/dashboard');
                             return 1;
                         }
                     }

@@ -5,7 +5,7 @@
 // const SpecialityStatistic = () => {
 //     const { doctors } = useContext(AppContext);
 
-   
+
 //     const specialityCounts = doctors.reduce((acc, doctor) => {
 //         if (doctor.speciality) {
 //             acc[doctor.speciality] = (acc[doctor.speciality] || 0) + 1;

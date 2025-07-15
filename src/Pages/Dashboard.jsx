@@ -13,7 +13,7 @@ const Dashboard = () => {
         <div className='bg-hover-color'>
             <Header />
             <div className="d-flex">
-                <Aside path='/' />
+                <Aside path='/dashboard' />
                 <DashboardContent />
             </div>
             {/* <Content /> */}

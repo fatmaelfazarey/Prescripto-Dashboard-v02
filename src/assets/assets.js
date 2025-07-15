@@ -47,7 +47,7 @@ export const NavBar = [
 
     {
         icon: assets.home_icon,
-        path: "/",
+        path: "/dashboard",
         text: "Dashboard"
     },
     {

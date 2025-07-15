@@ -35,9 +35,11 @@ function App() {
     <BrowserRouter>
       <AppContextProvider>
         <Routes>
-          <Route path='login' element={<Login />} />
-          {/* <Route path='/' element={<Private />} /> */}
-          <Route path='/' element={<Dashboard />} />
+          <Route path="/" element={<Login />} />
+          <Route path="login" element={<Login />} />
+          {/* <Route path='login' element={<Login />} /> */}
+          {/* <Route path='/' element={<Dashboard />} /> */}
+          <Route path='dashboard' element={<Dashboard />} />
           <Route path='appointments' element={<Appointments />} />
           <Route path='add-doctor' element={<AddDoctor />} />
           <Route path='doctors-list' element={<DoctorsList />} />
