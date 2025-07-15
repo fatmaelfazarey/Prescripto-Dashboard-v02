@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ebe72a1.css",
+    "main.js": "/static/js/main.6a2de2a6.js",
+    "static/js/453.5812a206.chunk.js": "/static/js/453.5812a206.chunk.js",
+    "static/media/Detective-check-footprint 1.png": "/static/media/Detective-check-footprint 1.b063670461cc76a3e8f1.png",
+    "static/media/medical-team.png": "/static/media/medical-team.199bb403f4e3cd9fc6bb.png",
+    "static/media/admin_logo.svg": "/static/media/admin_logo.b91a8b41ead58010bbdd16f77dcdb687.svg",
+    "static/media/language.png": "/static/media/language.5b53689efcef2c4e500f.png",
+    "static/media/light.png": "/static/media/light.0ebacb96e62b215a916d.png",
+    "static/media/view.png": "/static/media/view.5463540d6d6e1e11f59f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/doctor_icon.svg": "/static/media/doctor_icon.db79dd4997dba5920d00633d1cbcbd80.svg",
+    "static/media/earning_icon.svg": "/static/media/earning_icon.534c40875a2250ea79318e9e39294be4.svg",
+    "static/media/patients_icon.svg": "/static/media/patients_icon.30a81ec03464d2319561ceed2dbaf99b.svg",
+    "static/media/appointment_icon.svg": "/static/media/appointment_icon.2c34d10dc5820ddef69dbbd7f1abb6a8.svg",
+    "static/media/people_icon.svg": "/static/media/people_icon.adc5a7d29ce0413af4e06f6129d06b74.svg",
+    "static/media/tick_icon.svg": "/static/media/tick_icon.a9a2a35821633b0ba84fa4c4f39c1dc5.svg",
+    "static/media/appointments_icon.svg": "/static/media/appointments_icon.ed72c2be9030f8962a55dd1d04f15640.svg",
+    "static/media/cancel_icon.svg": "/static/media/cancel_icon.a5f1dffce3d804bcd3e4bf3e4543d368.svg",
+    "static/media/list_icon.svg": "/static/media/list_icon.49d8ed0de15057808e55767cba8f96c6.svg",
+    "static/media/home_icon.svg": "/static/media/home_icon.1c7843b71a982e1235cf4aa9910b7efe.svg",
+    "index.html": "/index.html",
+    "static/media/add_icon.svg": "/static/media/add_icon.83df9247c97cf142385691454741a744.svg",
+    "static/media/upload_area.svg": "/static/media/upload_area.07568022feb75bc0a99ea92c95300da8.svg",
+    "main.0ebe72a1.css.map": "/static/css/main.0ebe72a1.css.map",
+    "main.6a2de2a6.js.map": "/static/js/main.6a2de2a6.js.map",
+    "453.5812a206.chunk.js.map": "/static/js/453.5812a206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebe72a1.css",
+    "static/js/main.6a2de2a6.js"
+  ]
+}
