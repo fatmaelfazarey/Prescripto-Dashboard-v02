@@ -1,103 +1,46 @@
-# Getting Started with Create React App
+# Prescripto Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Admin Dashboard** of **Prescripto**, the backend interface that gives full control to system administrators for managing doctors, appointments, and overall system insights.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Secure Admin Login**  
+  Only authorized admins can access the dashboard using secure credentials.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Doctor Management**  
+  - Add new doctors with complete profiles (name, email, specialty, education, etc.)  
+  - Edit or delete doctor information  
+  - Manage availability and schedules
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Appointment Overview**  
+  - View all booked appointments  
+  - Track patient names, selected doctors, and appointment times  
+  - Monitor booking trends
 
-### `npm test`
+- **Analytics and Statistics**  
+  - Get real-time stats on total users, doctors, and appointments  
+  - Visual graphs to track growth and engagement over time
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Search & Filter Tools**  
+  - Quickly find doctors or patients by name or specialty  
+  - Filter appointments by date or status
 
-### `npm run build`
+- **User Management (Optional)**  
+  Ability to view registered users if required for support or monitoring purposes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** React.js + Bootstrap CSS  
+- **Backend:** JSON Server 
+---
 
-### `npm run eject`
+## Live Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🔗 **User Website**: [Prescripto11 User Website](https://prescripto11.vercel.app/)  
+- 🔗 **Admin Dashboard**: [Prescripto11 Admin Dashboard](https://prescripto-dashboard-v02-redskaphh-fatmaelfazareys-projects.vercel.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-### npm install --save-dev ajv@^7 
-### add react router dom 
-<!-- npm i -D react-router-dom@latest  -->
-
-### npm install -g react-devtools
-### add bootstap
-<!--  npm install bootstrap  
-import 'bootstrap/dist/css/bootstrap.css';
-// Put any other imports below so that CSS from your
-// components takes precedence over default styles.
--->
-### json server
-<!-- 
-1- npm install -g json-server => create json server
-2- create db.json file
-3- json-server --watch db.json --port 3001 => run json server
-4- take your end point 
-http://localhost:3001/admin
-http://localhost:3001/doctors
-http://localhost:3001/Patients
- -->
- ### Translate
- <!-- 
- npm install usehooks-ts
- npm install react-i18next i18next
- npm install i18next-browser-languagedetector
- npm install i18next-http-backend
-
-  -->
-
-  <!-- 
-  charts
-  npm install recharts -->
